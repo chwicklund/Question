@@ -30,7 +30,7 @@ body {
 }
 
 body {
-  background-image: url("../img/hearts-heart.gif");
+  background-image: url("img/hearts-heart.gif");
   display: -ms-flexbox;
   display: -webkit-box;
   display: flex;
