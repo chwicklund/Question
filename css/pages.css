@@ -28,7 +28,12 @@ html,
 body {
   height: 100%;
 }
-
+h1 {
+  font-size: 500pt;
+}
+p {
+  font-size: 300pt;
+}
 body {
   background-image: url("https://media.tenor.com/6bVINDSiLrkAAAAi/hearts-heart.gif");
   background-color: #fff;
